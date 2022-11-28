@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ColletLisa
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Pandas,Numpy and basic data visualization libraries
-- 💞️ I’m looking to collaborate on anything in regards to data science
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on anything in regards to data science/Data Analysis/Deeep learning/Machine Learning/NLP
 - 📫 How to reach me nandutucollet@gmail.com
 
 <!---
